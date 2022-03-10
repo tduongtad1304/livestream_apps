@@ -227,7 +227,7 @@ packages:
     source: hosted
     version: "2.0.5"
   permission_handler:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: permission_handler
       url: "https://pub.dartlang.org"
